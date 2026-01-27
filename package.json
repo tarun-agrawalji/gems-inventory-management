@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/material": "^7.3.7",
+    "@mui/x-data-grid": "^8.26.0",
+    "axios": "^1.13.3",
+    "lucide-react": "^0.563.0",
+    "numeral": "^2.0.6",
+    "recharts": "^3.7.0",
+    "uuid": "^13.0.0"
+  }
+}
